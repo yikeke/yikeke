@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[中文技术文档风格指南参考规范（公开版）](https://docs.google.com/document/d/1xHO_l63RvpOdY2jP4XtQaPtbElu2I4tTBHeilMXfJ98/edit?usp=sharing)
+
+欢迎评论、贡献、转发、改编！
