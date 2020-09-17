@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[中文技术文档风格指南参考规范（公开版）](https://docs.google.com/document/d/1xHO_l63RvpOdY2jP4XtQaPtbElu2I4tTBHeilMXfJ98/edit?usp=sharing)
+[中文技术文档风格指南参考规范（开源版）](https://github.com/yikeke/zh-style-guide)
 
 欢迎评论、贡献、转发、改编！
