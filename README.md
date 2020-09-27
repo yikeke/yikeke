@@ -23,5 +23,5 @@ Read about my [blog](https://cocoyi.online) (in Chinese).
 
 #### I'm currently working on
 
-- [中文技术文档风格指南参考规范（开源版）](https://zh-style-guide.readthedocs.io/)：欢迎报 Issue、贡献、改编！
+- [中文技术文档写作风格指南（开源版）](https://zh-style-guide.readthedocs.io/)：欢迎报 Issue、贡献、改编！
 - Some cli tools written in python
