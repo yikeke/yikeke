@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[中文技术文档风格指南参考规范（开源版）](https://github.com/yikeke/zh-style-guide)
+### Hi I'm yikeke (Coco) 👋
 
-欢迎评论、贡献、转发、改编！
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yikeke&show_icons=true" />
+
+I love contributing to open source, documentation technology, translation technology, and more.
+
+Read about my [blog](https://cocoyi.online) (in Chinese).
+
+#### What I'm currently working on
+
+- [中文技术文档风格指南参考规范（开源版）](https://github.com/yikeke/zh-style-guide)：欢迎评论、贡献、转发、改编！
+- Some cli tools written in python
