@@ -27,7 +27,7 @@ Read about my [blog](https://cocoyi.online) (in Chinese).
 - Some cli tools written in python
 
 ---
-欢迎关注我的公众号『一只狍子的奇思妙想』，日常研究新技术，分享新思考 :)
+欢迎扫码关注我的微信公众号『一只狍子的奇思妙想』，日常研究新技术，分享新思考 :)
 
 <img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="185" />
 
