@@ -29,4 +29,6 @@ Read about my [blog](https://cocoyi.online) (in Chinese).
 ---
 欢迎关注我的公众号『一只狍子的奇思妙想』，日常研究新技术，分享新思考 :)
 
-![微信公众号二维码：一只狍子的奇思妙想](qrcode.jpg)
+<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="185" />
+
+![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=yikeke.yikeke)
