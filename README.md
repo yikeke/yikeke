@@ -21,10 +21,11 @@ I love contributing to open source, documentation technology, translation techno
 
 Read about my [blog](https://cocoyi.online) (in Chinese).
 
-#### I'm currently working on
+#### My side projects
 
 - [中文技术文档写作风格指南（开源版）](https://zh-style-guide.readthedocs.io/)：欢迎报 Issue、贡献、改编！
-- Some cli tools written in python
+- Some documentation validation checks
+- Some CLI tools written in python
 
 ---
 欢迎扫码关注我的微信公众号『一只狍子的奇思妙想』，日常研究新技术，分享新思考 :)
