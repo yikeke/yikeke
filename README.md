@@ -23,7 +23,7 @@ Read about my [blog](https://cocoyi.online) (in Chinese).
 
 #### My side projects
 
-- [中文技术文档写作风格指南（开源版）](https://zh-style-guide.readthedocs.io/)：欢迎报 Issue、贡献、改编！
+- [开源版中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/)：欢迎报 Issue、贡献、改编！
 - Some documentation validation checks
 - Some CLI tools written in python
 
