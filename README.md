@@ -24,6 +24,7 @@ Read about my [blog](https://cocoyi.online) (in Chinese).
 #### My side projects
 
 - [开源版中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/)：欢迎报 Issue、贡献、改编！
+- [《编程之道》中英双语版](https://github.com/yikeke/tao-of-programming)：欢迎对这版翻译提出改进建议！
 - Some documentation validation checks
 - Some CLI tools written in python
 
