@@ -31,9 +31,9 @@ Read about my [blog](https://cocoyi.online) (in Chinese).
 
 ---
 
-欢迎扫码关注我的微信公众号『一只狍子的奇思妙想』👇
+欢迎扫码关注我的微信公众号『阿狍杂谈』👇
 
-<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="185" />
+<img src="qrcode.jpg" alt="微信公众号二维码：阿狍杂谈" height="185" />
 
 介绍：我在互联网/IT/开源世界玩大冒险，在英语/心理/哲学世界学真心话。所有的输赢得失，我都在这儿讲给你听 :-)
 
