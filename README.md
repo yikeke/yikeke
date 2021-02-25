@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 I love contributing to open source, documentation technology, translation technology, and more.
 
-Read about my [blog](https://cocoyi.online) (in Chinese).
-
 #### My side projects
 
 - [开源版中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/)：欢迎贡献改编！
