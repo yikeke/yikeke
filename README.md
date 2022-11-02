@@ -29,10 +29,10 @@ I love contributing to open source, documentation technology, translation techno
 
 ---
 
-欢迎扫码关注我的微信公众号『阿狍杂谈』👇
+欢迎扫码关注我的微信公众号『易言的世界』👇
 
-<img src="qrcode.jpg" alt="微信公众号二维码：阿狍杂谈" height="185" />
+<img src="qrcode.jpg" alt="微信公众号二维码：易言的世界" height="185" />
 
-介绍：我在互联网/IT/开源世界玩大冒险，在英语/心理/哲学世界学真心话。所有的输赢得失，我都在这儿讲给你听 :-)
+介绍：比利时 KUL 哲学系在读｜前互联网 PM/Tech Writer｜裸辞留学，去认识过去的思想家们，求一副躺平/内卷/娱乐至死时代的心药｜过程记录于此
 
 ![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=yikeke.yikeke)
